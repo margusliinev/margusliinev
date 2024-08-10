@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### My name is Margus and I like to build things. Sometimes I also fix things that are broken.
+### My name is Margus and I like to build things.
 
 - 💼 I’m currently working as a Software Engineer at Pipedrive.
 
@@ -33,8 +33,4 @@
   - Website for my personal brand with my biography, portfolio and contact details.
 #### [app.margusliinev.com](https://app.margusliinev.com)
   - App to manage various aspects of my life and automate everything possible.
-#### [api.margusliinev.com](https://api.margusliinev.com)
-  - Backend API that is supporting all of my current and future projects.
-#### [blog.margusliinev.com](https://blog.margusliinev.com)
-  - Personal blog where I share things that I find interesting.
 
