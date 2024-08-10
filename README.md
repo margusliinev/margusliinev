@@ -4,7 +4,7 @@
 
 - 💼 I’m currently working as a Software Engineer at Pipedrive.
 
-- 🗂️ I’m currently building my personal website and life automation tool.
+- 🛠️ I’m currently building my personal website and life automation tool.
 
 - 📚 I’m currently learning devops tools such as Docker, Kubernetes and Github Actions.
 
