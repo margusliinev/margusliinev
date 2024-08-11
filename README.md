@@ -27,7 +27,7 @@
 ### Projects
 
 #### [margusliinev.com](https://margusliinev.com)
-  - Website for my personal brand with my biography, portfolio and contact details.
-#### [app.margusliinev.com](https://app.margusliinev.com)
-  - App to manage various aspects of my life and automate everything possible.
+  - A personal website with a brief introduction, projects I've worked on, and contact details.
+#### [sprintpilot.app](https://sprintpilot.app)
+  - Sprintpilot is a project management tool for developers, enabling real-time collaboration on a prioritized backlog.
 
