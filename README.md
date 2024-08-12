@@ -6,7 +6,7 @@
 
 - 🛠️ I’m currently building my personal website and life automation tool.
 
-- 📚 I’m currently learning devops tools such as Docker, Kubernetes and Github Actions.
+- 📚 I’m currently learning DevOps tools like Docker, Kubernetes, and GitHub Actions.
 
 ### Technologies
 
@@ -28,6 +28,6 @@
 
 #### [margusliinev.com](https://margusliinev.com)
   - A personal website with a brief introduction, projects I've worked on, and contact details.
-#### [sprintpilot.app](https://sprintpilot.app)
-  - Sprintpilot is a project management tool for developers, enabling real-time collaboration on a prioritized backlog.
+#### [app.margusliinev.com](https://app.margusliinev.com)
+  - An app designed to manage various aspects of my life while automating as many tasks as possible.
 
