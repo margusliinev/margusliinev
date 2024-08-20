@@ -2,11 +2,11 @@
 
 ### My name is Margus and I like to build things.
 
-- 💼 I’m currently working as a Software Engineer at Pipedrive.
+- 💼 I’m currently working full-time as a Junior Software Engineer at Pipedrive.
 
-- 🛠️ I’m currently building my personal website and life automation tool.
+- 🛠️ I’m currently building a personal website and a SaaS product called Sprintpilot.
 
-- 📚 I’m currently learning DevOps tools like Docker, Kubernetes, and GitHub Actions.
+- 📚 I’m currently learning DevOps tools such as Docker, Kubernetes, and GitHub Actions.
 
 ### Technologies
 
@@ -27,7 +27,7 @@
 ### Projects
 
 #### [margusliinev.com](https://margusliinev.com)
-  - A personal website with a brief introduction, projects I've worked on, and contact details.
-#### [app.margusliinev.com](https://app.margusliinev.com)
-  - An app designed to manage various aspects of my life while automating as many tasks as possible.
+  - My personal website with a brief introduction, projects I've worked on, articles I've written, my resume, and contact details.
+#### [sprintpilot.dev](https://sprintpilot.dev)
+  - Sprintpilot is a project management tool for developers that simplifies team collaboration and accelerates product development.
 
