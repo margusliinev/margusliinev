@@ -29,5 +29,5 @@
 #### [margusliinev.com](https://margusliinev.com)
   - My personal website with a brief introduction, projects I've worked on, articles I've written, my resume, and contact details.
 #### [sprintpilot.dev](https://sprintpilot.dev)
-  - Sprintpilot is a project management tool for developers that simplifies team collaboration and accelerates product development.
+  - Sprintpilot is a project management tool for developers that simplifies team collaboration and speeds up product development.
 
