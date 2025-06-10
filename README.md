@@ -2,7 +2,7 @@
 
 ### My name is Margus and I like to build things.
 
-- 💼 I’m currently working full-time as a Junior Software Engineer at Pipedrive.
+- 💼 I’m currently working full-time as a Software Engineer at Pipedrive.
 
 - 🛠️ I’m currently building a personal website and a SaaS product called Sprintpilot.
 
