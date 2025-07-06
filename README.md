@@ -4,7 +4,7 @@
 
 - 💼 I’m working full-time as a Software Engineer at Pipedrive.
 
-- 🛠️ I’m building a new personal website and my own AI agent.
+- 🛠️ I’m building a new personal website and my own AI Agent.
 
 - 📚 I’m learning Go, Docker, Kubernetes, and GitHub Actions.
 
