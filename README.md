@@ -2,11 +2,11 @@
 
 ### My name is Margus and I like to build things.
 
-- 💼 I’m currently working full-time as a Software Engineer at Pipedrive.
+- 💼 I’m working full-time as a Software Engineer at Pipedrive.
 
-- 🛠️ I’m currently building a personal website and a SaaS product called Sprintpilot.
+- 🛠️ I’m building a new personal website and my own AI agent.
 
-- 📚 I’m currently learning DevOps tools such as Docker, Kubernetes, and GitHub Actions.
+- 📚 I’m learning Go, Docker, Kubernetes, and GitHub Actions.
 
 ### Technologies
 
@@ -26,5 +26,4 @@
 ### Projects
 
 #### [margusliinev.com](https://margusliinev.com)
-  - My personal website with a brief introduction, projects I've worked on, articles I've written, my resume, and contact details.
 
