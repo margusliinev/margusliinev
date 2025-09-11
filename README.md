@@ -6,7 +6,7 @@
 
 - 🛠️ I’m building a new personal website and my own AI Agent.
 
-- 📚 I’m learning Go, Docker, Kubernetes, and GitHub Actions.
+- 📚 I’m learning cloud computing through AWS and its services.
 
 ### Technologies
 
