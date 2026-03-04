@@ -23,5 +23,6 @@
 
 ### Projects
 
-1. [https://margusliinev.com](https://margusliinev.com)
-2. [https://github.com/margusliinev/kratt](https://github.com/margusliinev/kratt)
+1. Personal Website: [https://margusliinev.com](https://margusliinev.com)
+2. AI Coding Agent: [https://github.com/margusliinev/kratt](https://github.com/margusliinev/kratt)
+3. E-Register MCP: [https://github.com/margusliinev/estonian-business-register-mcp](https://github.com/margusliinev/estonian-business-register-mcp)
