@@ -25,4 +25,4 @@
 
 1. Personal Website: [https://margusliinev.com](https://margusliinev.com)
 2. AI Coding Agent: [https://github.com/margusliinev/kratt](https://github.com/margusliinev/kratt)
-3. E-Register MCP: [https://github.com/margusliinev/estonian-business-register-mcp](https://github.com/margusliinev/estonian-business-register-mcp)
+3. E-Register MCP: [https://github.com/margusliinev/rik-mcp](https://github.com/margusliinev/rik-mcp)
