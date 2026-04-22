@@ -8,6 +8,10 @@
 
 - 📚 I’m currently learning AI Coding Tools.
 
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,postgres,mysql)](https://skillicons.dev)
+
 ### Projects
 
 - Personal Website: [https://margusliinev.com](https://margusliinev.com)
