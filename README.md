@@ -10,7 +10,7 @@
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,flutter,dart,postgres,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,expressjs,mysql,postgres)](https://skillicons.dev)
 
 ### Projects
 
