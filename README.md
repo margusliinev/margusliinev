@@ -1,6 +1,6 @@
-<h2>Hi there 👋</h2>
+<h1>Hi there 👋</h2>
 
-<h3>My name is Margus and I like to build things.</h3>
+<h2>My name is Margus and I like to build things.</h3>
 
 <h3>Today</h3>
 
