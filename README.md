@@ -1,6 +1,6 @@
 <a href="https://margusliinev.com">
   <img
-    alt="Software engineer based in Tallinn, Estonia. I build things for the web and write about programming, technology, and AI."
+    alt="Margus Liinev"
     src="https://raw.githubusercontent.com/margusliinev/margusliinev/master/preview.png"
   />
 </a>
