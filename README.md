@@ -4,5 +4,3 @@
     src="https://raw.githubusercontent.com/margusliinev/margusliinev/master/preview.png"
   />
 </a>
-
-[Learn more about me](https://margusliinev.com)
